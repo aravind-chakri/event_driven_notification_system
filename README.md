@@ -294,7 +294,7 @@ MIT License - feel free to use this project for learning and portfolio purposes.
 
 ---
 
-**Built by:** [Your Name]  
-**Contact:** [Your Email]  
-**LinkedIn:** [Your LinkedIn Profile]  
-**GitHub:** [Your GitHub Profile]
+- **Built by:** Aravind Chakri  
+- **Contact:** aravindchakri10@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/in/aravindchakri/ 
+- **GitHub:** https://github.com/aravind-chakri
